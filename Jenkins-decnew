@@ -24,8 +24,7 @@ pipeline{
                     
                     ssh ec2-user@172.31.19.83 /home/ec2-user/tomcat/webapps/bin
                     
-                    ssh ec2-user@172.31.19.83 /home/ec2-user/tomcat/webapps/bin
-                
+                    ssh ec2-user@172.31.19.83 /home/ec2-user/tomcat/webapps/bin        
                 """
             }
             
